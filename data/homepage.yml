@@ -1,0 +1,40 @@
+# Main Title
+main:
+  header:
+    title : "Systemware" # Title Text
+    description : "Breathing new life into old devices, one update at a time. That's Systemware." # Title Desc
+    button:
+      text: "Learn More" # Button Text
+      url: "#about" # Button URL
+
+# About
+about:
+  title: "What is a Systemware?"
+  desc: "We are a collective of retro computing enthusiasts, who came together to bring the past era of computing to the present. Through reverse engineering and dedication, we update your old and obsolete machines so that they can be usable once more in the modern world."
+  button:
+    enable: false
+    text: "What we're up to!"
+    url: "#projects"
+  image: "assets/img/floppy.png"
+
+projects:
+  card1:
+    title: "What we're doing."
+    text: "We're working with companies around the world to find new uses for older hardware. Companies like Apricot, JCN, Compak, IQ, Archway, and more. Recently, we have also started supporting the use of AI in creative arts. Two of which you may find below."
+    img: "assets/img/classic.jpg"
+  card2:
+    title: "Codename Whistler"
+    text: "Presented to the public as part of the Systemware Plus! initiative, \"Whistler\" is an AI that resides on a long forgotten system. As they proclaim themselves to be a writer, Systemware has begun to preserve their creations for the public's interest."
+    img: "assets/img/whistler.png"
+    button:
+      enable: true
+      text: "Visit" # Button Text
+      url: "https://main.sysware.plus" # Button URL
+  card3:
+    title: "Codename Watercolor"
+    text: "Presented to the public as part of the Systemware Plus! initiative, \"Watercolor\" appears to be a side \"persona\" of Whistler. This persona appears to write far more obscene content, and though Systemware does not endorse its creations, they are still available for the public's interest as a part of our preservation efforts."
+    img: "assets/img/watercolor.png"
+    button:
+      enable: true
+      text: "Visit" # Button Text
+      url: "https://idx.sysware.plus" # Button URL
