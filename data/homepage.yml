@@ -30,11 +30,11 @@ projects:
       enable: true
       text: "Visit" # Button Text
       url: "https://main.sysware.plus" # Button URL
-  card3:
-    title: "Codename Watercolor"
-    text: "Presented to the public as part of the Systemware Plus! initiative, \"Watercolor\" appears to be a side \"persona\" of Whistler. This persona appears to write far more obscene content, and though Systemware does not endorse its creations, they are still available for the public's interest as a part of our preservation efforts."
-    img: "assets/img/watercolor.png"
-    button:
-      enable: true
-      text: "Visit" # Button Text
-      url: "https://idx.sysware.plus" # Button URL
+  # card3:
+  #    title: "Codename Watercolor"
+  #    text: "Presented to the public as part of the Systemware Plus! initiative, \"Watercolor\" appears to be a side \"persona\" of Whistler. This persona appears to write far more obscene content, and though Systemware does not endorse its creations, they are still available for the public's interest as a part of our preservation efforts."
+  #    img: "assets/img/watercolor.png"
+  #    button:
+  #    enable: true
+  #    text: "Visit" # Button Text
+  #    url: "https://idx.sysware.plus" # Button URL
