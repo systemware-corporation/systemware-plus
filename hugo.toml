@@ -5,19 +5,19 @@ title = 'Systemware'
 
 ## Site Settings
 [params]
-logo = "assets/img/systemware-logo.png"
+logo = "assets/img/systemware.png"
 favicon = "assets/favicon.png"
 
 # Info
 address = "1 Flood Ave, Arkney, ME 04652"
-email = "gateway@sysware.plus"
-phone = "737973776172655F737570706F7274"
+email = "404 Not Found"
+phone = "0BCDE6A1FEA592D399F09128350F80C8"
 
 # Socials
 
-twitter = ""
-facebook = ""
-github = ""
+twitter = "https://0ccu.lt"
+facebook = "https://0ccu.lt"
+github = "https://0ccu.lt"
 
 # Other
 
@@ -38,11 +38,5 @@ sbtoken = "TOKEN_HERE"
 
   [[menu.main]]
   name = "Contact"
-  URL = "#signup"
+  URL = "#contact"
   weight = 3
-
-
-# Credits
-
-# This theme is forked from: https://github.com/startbootstrap/startbootstrap-grayscale
-# This theme is forked by: https://github.com/akatiggerx04

@@ -2,6 +2,9 @@
 <html lang="en">
 {{- partial "head.html" . -}}
 <body id="page-top">
+        <script>
+            alert("This is the 0ccultist's cache of https://sysware.plus/. It is a snapshot of the page as it appeared on Feb 14, 0004 18:29:48 GMT. The current page is missing.");
+        </script>
 {{- partial "header.html" . -}}
         <!-- Masthead-->
         <header class="masthead">
@@ -115,8 +118,7 @@
         </section>
         -->
         <!-- Contact-->
-        <!--
-        <section class="contact-section bg-black">
+        <section class="contact-section bg-black" id="contact">
             <div class="container px-4 px-lg-5">
                 <div class="row gx-4 gx-lg-5">
                     <div class="col-md-4 mb-3 mb-md-0">
@@ -135,7 +137,7 @@
                                 <i class="fas fa-envelope text-primary mb-2"></i>
                                 <h4 class="text-uppercase m-0">Email</h4>
                                 <hr class="my-4 mx-auto" />
-                                <div class="small text-black-50"><a href="#!">{{ site.Params.email }}</a></div>
+                                <div class="small text-black-50">{{ site.Params.email }}</div>
                             </div>
                         </div>
                     </div>
@@ -157,7 +159,6 @@
                 </div>
             </div>
         </section>
-        -->
 {{- partial "footer.html" . -}}
 </body>
 </html>
